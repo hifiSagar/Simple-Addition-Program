@@ -7,6 +7,5 @@ int main(){
     printf("subtraction of two numbers %d\n",num1-num2);
     printf("multiplication of two numbers %d\n",num1*num2);
     printf("division of two numbers %d\n",num1/num2);
-    return 0;
-    
+    return 0;  
 }
